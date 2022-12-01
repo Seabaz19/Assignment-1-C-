@@ -2,8 +2,9 @@
 using namespace std;
 
 
+// testing
 /*int main()
-{
+{ 
 	string N;
 	int A;
 	string G;
