@@ -2,7 +2,7 @@
 using namespace std;
 
 
-int main()
+/*int main()
 {
 	char N;
 	int A;
@@ -38,4 +38,5 @@ int main()
 	printf("Height (meters):", H);
 
 	return 0;
-}
+}*/
+
