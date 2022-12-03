@@ -4,18 +4,19 @@ using namespace std;
 
 int main()
 {
-	int i,n;
+	int i,n,num;
 	
 	cout << "Enter howmany prime numbe are desired:" << endl;
 	cin >> n;
 
-	for (i=2; i<=n/2; i++)//check if a number is prime and print it
+	for (num = 0; num <= n; num++)
 	{
-		if (n% i = 0)
+		for (i = 2; i <= num/2; i++)//check if a number is prime and print it
 		{
-			if (n % i == 0)
+			if (n%i == 0)
 			{
-				cout << n << endl;
+					cout << n << endl;
+				
 			}
 		}
 	}

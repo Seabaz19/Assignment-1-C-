@@ -2,7 +2,6 @@
 using namespace std;
 
 
-// testing
 /*int main()
 { 
 	string N;
