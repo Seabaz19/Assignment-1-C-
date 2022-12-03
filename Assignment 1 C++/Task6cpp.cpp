@@ -2,24 +2,28 @@
 #include <iostream>
 using namespace std;
 
-int main()
+/*int main()
 {
-	int i,n,num;
+	int n,num=2,i;
 	
-	cout << "Enter howmany prime numbe are desired:" << endl;
+	cout << "Enter how many prime numbe are desired:" << " ";
 	cin >> n;
-
-	for (num = 0; num <= n; num++)
+	while (n)
 	{
-		for (i = 2; i <= num/2; i++)//check if a number is prime and print it
+		for (i = 2; i < num; i++)
 		{
-			if (n%i == 0)
+			if (num % i == 0)
 			{
-					cout << n << endl;
-				
+				break;
 			}
 		}
+		if (i == num)
+		{
+			cout << num << " ";
+			n--;
+		}
+		num++;
 	}
 
 	return 0;
-}
+}*/
