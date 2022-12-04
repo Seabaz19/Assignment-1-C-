@@ -1,0 +1,11 @@
+
+
+What did you learn? What did you know already?
+
+I learned to use visual studio, github and simple syntax of C++.
+I already knew how to do the most of the tasks in theory as I had to do similar tasks in python last learning period.
+
+What was difficult in the lab? How did you overcome it?
+
+I found it difficult to complete task 8 especially as using ASCII was new to me but through research adn discussing it with my peers, 
+I was able to figure out how to use it effectively to acheive the desired goal of a pyramid for task 8.
